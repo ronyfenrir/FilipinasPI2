@@ -24,6 +24,7 @@
     <ProjectGuid>{1ae63701-2caf-450d-b888-a762b47e5237}</ProjectGuid>
     <RootNamespace>OenigimadeEinstein</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>O enigma de Einstein</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
