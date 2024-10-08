@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\OneDrive - SENAC - SP\\Pi - projetos\\p.i1\\O enigma de Einstein\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D3A9DD-B291-425B-9259-82D3C7165EE2}|O enigma de Einstein.vcxproj|C:\\Users\\rafae\\OneDrive - SENAC - SP\\Pi - projetos\\p.i1\\O enigma de Einstein\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0D3A9DD-B291-425B-9259-82D3C7165EE2}|O enigma de Einstein.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive - SENAC - SP\\Pi - projetos\\p.i1\\O enigma de Einstein\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\rafae\\OneDrive - SENAC - SP\\Pi - projetos\\p.i1\\O enigma de Einstein\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-08T04:37:31.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
