@@ -3,8 +3,6 @@
 #include <allegro5/allegro_ttf.h>
 #include <allegro5/allegro_image.h>
 #include <allegro5/keyboard.h>
-//  573 / 3 = 191 → largura
-// 644 / 4 = 161  → altura
 
 //  150 / 3 = 50 → largura
 // 300 / 6 = 50  → altura
@@ -25,8 +23,8 @@ int main() {
     ALLEGRO_FONT* font = al_load_font("./font.ttf", 25, 0);
     ALLEGRO_TIMER* timer = al_create_timer(1.0 / 30.0);
 
-    ALLEGRO_BITMAP* sprite = al_load_bitmap("./felipe-spriteSheet.png");
-    ALLEGRO_BITMAP* bg = al_load_bitmap("./bg1-open-door.png");
+    ALLEGRO_BITMAP* sprite = al_load_bitmap("./src/felipe-spriteSheet.png");
+    ALLEGRO_BITMAP* bg = al_load_bitmap("./src/bg1-open-door.png");
 
     ALLEGRO_EVENT_QUEUE* event_queue = al_create_event_queue();
     al_register_event_source(event_queue, al_get_display_event_source(display));
